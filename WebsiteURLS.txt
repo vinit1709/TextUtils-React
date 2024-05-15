@@ -1,0 +1,8 @@
+To see preview of this website go on : https://vinit1709.github.io/TextUtils-React/
+    &
+to download this project go on : https://github.com/vinit1709/TextUtils-React
+
+"homepage": "https://vinit1709.github.io/TextUtils-React",
+
+
+see full project: https://vinitpateltextutils.netlify.app/
